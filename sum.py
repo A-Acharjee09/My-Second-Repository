@@ -1,4 +1,4 @@
 a=int(input("a="))
 b=int(input("b="))
-sum=a+b
-print("sum=",sum)
+sub=a+b
+print("sub=",sub)
